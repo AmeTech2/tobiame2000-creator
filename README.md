@@ -1,44 +1,18 @@
-# 🚀 Hello World
+# Hey, I'm Tobi 👋
 
-> A short, punchy description of what your project does.
+A software engineering student on a journey into **AI Engineering**.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![License](https://img.shields.io/github/license/your-username/your-repo)
+I'm curious about how technology works, how intelligent systems are built, and how AI can be used to solve real-world problems.
 
----
+### What I'm currently up to
+- 🌱 Learning AI Engineering, Python, and SQL.
+- 🤖 Exploring AI tools, concepts, and technologies.
+- 🛠️ Experimenting with ideas and building small projects.
+- 📚 Learning something new every day.
 
-## 📖 Table of Contents
-- [About](#-about)
-- [Features](#-features)
-- [Demo](#-demo)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Configuration](#-configuration)
-- [Tech Stack](#-tech-stack)
-- [Contributing](#-contributing)
-- [Roadmap](#-roadmap)
-- [License](#-license)
-- [Contact](#-contact)
+### A little about me
+I enjoy understanding how things work, exploring new ideas, and turning what I learn into something useful.
 
----
+I'm still early in my journey, but there's a lot to explore.
 
-## 🧠 About
-Explain what your project does and why it exists.  
-What problem does it solve? Who is it for?
-
----
-
-## ✨ Features
-- ⚡ Feature one
-- 🔒 Feature two
-- 🎯 Feature three
-
----
-
-## 🎬 Demo
-Add screenshots, GIFs, or links:
-
-```bash
-# Example
-https://your-demo-link.com# tobiame2000-creator.md
+**Learning. Building. Figuring things out.** 🚀
